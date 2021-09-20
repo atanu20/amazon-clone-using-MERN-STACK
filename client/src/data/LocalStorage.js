@@ -1,3 +1,4 @@
+//no use of this file
 export const getCart = () => {
     return new Promise((resolve, reject) => {
         const cart = window.localStorage.getItem('cart');
