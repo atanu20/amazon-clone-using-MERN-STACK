@@ -1,6 +1,6 @@
 const mongoose =require('mongoose')
 
-mongoose.connect('mongodb+srv://atanumongo:atanumongo@firstmongoapp.dgqpo.mongodb.net/amazon?retryWrites=true&w=majority',{
+mongoose.connect('mongodb+srv://***:***@firstmongoapp.dgqpo.mongodb.net/***?retryWrites=true&w=majority',{
     useCreateIndex:true,
     useNewUrlParser:true,
     useUnifiedTopology:true,
