@@ -1,0 +1,28 @@
+.slider{
+    width: 100%;
+    height: 50vh;
+    overflow: hidden !important;
+}
+.slider_box{
+    width: 100%;
+    height: 50vh;
+    
+}
+.sliderimg{
+    width: 100%;
+    height: 100%;
+    
+}
+
+@media (max-width:576px){
+.slider{
+    width: 100%;
+    height: 35vh;
+}
+.slider_box{
+    height: 35vh;
+}
+.sliderimg{
+    object-fit: cover;
+}
+}

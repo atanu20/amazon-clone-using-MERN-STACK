@@ -1,0 +1,33 @@
+.account{
+    width:100%;
+    min-height: 86vh;
+    background-color: ghostwhite;
+    padding: 75px 0;
+}
+
+tbody a{
+    color:#000000
+}
+tbody a:hover{
+    text-decoration: none;
+    color:#000000
+}
+td{
+    width: 200px;
+}
+.account .card{
+    border: none;
+    box-shadow: 0px 5px 10px gainsboro;
+}
+.trackimg{
+    width: 100px;
+    display: block;
+    margin: auto;
+    height: 100px;
+
+
+}
+.fa-check-circle-o{
+    font-size: 23px;
+    color: green !important;
+}
